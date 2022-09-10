@@ -144,7 +144,6 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
             "date": {
                 "value": "{} {}".format(today, week),
                 "color": "#4169E1"
-             "font - size": 20px
             },
             "region": {
                 "value": region_name,
